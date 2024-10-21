@@ -5,7 +5,6 @@
 - OneShot 
 - Anti FastFire
 - Mapvote
-- Hud Text
 - Chat Commands
 - Only one ammo on pistol and grenade
 - Remove placed items
@@ -15,9 +14,11 @@
 - Score HUD
 - 1.5 Headicons
 
-### TODO
+### TODO:
 - Sprint
 - Improved Killcam and Roundcam
+- HUD Server Info
+- Welcome Messages
 
 ### INFO
 - Supported game version: **1.1**
