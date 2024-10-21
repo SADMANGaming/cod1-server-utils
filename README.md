@@ -22,7 +22,16 @@
 - HUD Server Info
 - Welcome Messages
 
-### INFO
+### INFO:
 - Supported game version: **1.1**
 - Requires LIBCOD1/VCODLIB
 - If you're hosting using vanilla patch you can use Legacy version.
+
+### CREDITS:
+- Raphael
+- Indy
+- Cato
+- Hanmer
+- Infinity Ward
+- PowerServer
+- and others 
