@@ -13,6 +13,8 @@
 - Alive players HUD
 - Score HUD
 - 1.5 Headicons
+- Namechecker
+- Spawn protection
 
 ### TODO:
 - Sprint
